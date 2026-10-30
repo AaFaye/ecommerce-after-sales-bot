@@ -1,0 +1,23 @@
+# 本地数据库（含测试数据，不入库）
+after_sales.db
+after_sales.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# 编辑器
+.vscode/settings.json
+.idea/
+
+# 环境变量与密钥
+.env
+.env.*
+
+# 系统文件
+.DS_Store
+Thumbs.db
